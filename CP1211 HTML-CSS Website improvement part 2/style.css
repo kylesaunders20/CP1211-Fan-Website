@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(154, 102, 35);
+}
+h2 {
+    color: gold;
+}
+blockquote.Quote1 {
+    margin: 0px;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: aqua;
+    color: lawngreen;
+    background-color: darkmagenta;   
+}
+#KennyPicTitle {
+    border-radius: 10px;
+    border-style: double;
+    border-width: 10px;
+    font-size: x-large;
+    color: limegreen;
+    border-color: lightseagreen;
+    box-shadow: 2px 2px black;
+}
+td {
+    color: greenyellow;
+}
+#KennyEquipment {
+    color: whitesmoke;
+}
+#Discography {
+    color: turquoise;
+}
+#Title {
+    margin: auto;
+    color: gold;
+    padding: 25px;
+    border-style: double;
+    border-radius: 50px;
+    background-color: lightseagreen;
+    opacity: 0.75;
+}
+#ParagraphIntro {
+    color: lightseagreen;
+}
+ul li {
+    opacity: 0.75;
+}
+th {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    font-size: large;
+    font-style: normal;
+    color: whitesmoke;
+}
+#Quote2 {
+    margin: 0px;
+    padding: 20px;
+    border-radius: 20px;
+    border-style: ridge;
+    border-width: 5px;
+    border-color: aqua;
+    color: lawngreen;
+    background-color: darkmagenta;   
+}
+#PFont {
+    color: indigo;
+}
+Video {
+    border-radius: 40px;
+    border-color: blueviolet;
+    border-style: groove;
+    border-width: 20px;
+}
+#PicBorder {
+    border-radius: 20px;
+    border-color: lightseagreen;
+    border-style: solid;
+}
